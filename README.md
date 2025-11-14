@@ -1,4 +1,5 @@
-## Hi there 👋
+# About Me
+**Special interest:** AI and AI for Good
 
 <!--
 **karemafernandez/karemafernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
